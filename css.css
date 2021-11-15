@@ -1,0 +1,85 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Almarai&family=Andika+New+Basic&family=Balsamiq+Sans&family=Jomhuria&family=Tajawal&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Almarai&family=Andika+New+Basic:wght@400;700&family=Balsamiq+Sans&family=Jomhuria&family=Tajawal&display=swap');
+
+@media screen and (start: 300px) and (end: 100px){
+   
+}
+
+div.content{
+margin-top: 7%;
+margin-left: 10px;
+width: 31%;
+background-color: rgb(155, 154, 154);
+border: 3px solid black;
+padding-left: 1%;
+float: left;
+;
+}
+
+.content h3{
+    margin-top: 2%;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Andika New Basic', sans-serif;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Jomhuria', cursive;
+    font-family: 'Tajawal', sans-serif;
+    
+}
+
+.content #label1{
+    padding-left:35px;
+    padding-right: 7%;
+    margin-left: 66%;
+    border:2px solid black;
+    text-align: center;
+    font-size:21px;
+    background-color: rgb(216, 137, 150);
+    font-family: 'Almarai', sans-serif;
+font-family: 'Andika New Basic', sans-serif;
+font-family: 'Balsamiq Sans', cursive;
+font-family: 'Jomhuria', cursive;
+font-family: 'Tajawal', sans-serif;
+font-weight: bold;
+}
+.content #label2{
+    padding-left:46px;
+    padding-right: 13%;
+    margin-left: 65%;
+    border:2px solid black;
+    text-align: center;
+    font-size:21px;
+    background-color: rgb(211, 72, 72);
+    color: white;
+    font-family: 'Almarai', sans-serif;
+font-family: 'Andika New Basic', sans-serif;
+font-family: 'Balsamiq Sans', cursive;
+font-family: 'Jomhuria', cursive;
+font-family: 'Tajawal', sans-serif;
+font-weight: bold;
+}
+.content #label3{
+    padding-left:45px;
+    padding-right: 10%;
+    margin-left: 66%;
+    border:2px solid black;
+    text-align: center;
+    font-size:21px;
+    background-color: rgb(221, 193, 132);
+    font-family: 'Almarai', sans-serif;
+font-family: 'Andika New Basic', sans-serif;
+font-family: 'Balsamiq Sans', cursive;
+font-family: 'Jomhuria', cursive;
+font-family: 'Tajawal', sans-serif;
+font-weight: bold;
+}
+ h1{
+     padding-top: 2%;
+     text-align: center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Andika New Basic', sans-serif;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Jomhuria', cursive;
+    font-family: 'Tajawal', sans-serif;
+    
+ }
